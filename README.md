@@ -15,6 +15,8 @@ This is the durable context layer for working with Codex and the Codex CLI.
 - `context/`: durable context about the user and current focus
 - `workflows/`: repeatable ways of working
 - `SOP/`: standard operating procedures, organized by tool or domain
+- `Agents/`: durable agent definitions and agent-local session folders
+- `Knowledge Base/`: durable domain knowledge and source-specific session folders
 - `sessions/`: session memory and handoffs
 - `projects/`: project briefs and project-specific context
 - `integrations/`: tool and connector inventory
