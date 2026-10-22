@@ -9,7 +9,7 @@ Standardize Argus access on the existing persistent `argus-browser` MCP connecti
 - Audited the workspace for Argus REST/API clients, HTTP helpers, credential handling, auth probes, API chat helpers, and related instructions.
 - Removed the isolated legacy Argus API helper scripts and Keychain-based access note.
 - Updated workspace, master-agent, and session-log instructions to require MCP-only Argus access.
-- Added `integrations/argus-browser.md` with the operating and verification rules.
+- Added `SOP/Argus/README.md` with the operating and verification rules.
 - Verified the existing MCP connection using read-only tab listing and accessibility snapshot.
 
 ## Decisions and safety

@@ -39,6 +39,7 @@ At the end of a meaningful session, update the relevant session note with:
 
 - `context/`: durable personal preferences, goals, and current priorities
 - `workflows/`: reusable procedures and checklists
+- `SOP/`: standard operating procedures for connected tools and recurring work
 - `sessions/`: dated session summaries and handoffs
 - `projects/`: project-specific briefs and links
 - `integrations/`: notes about connected tools and their purpose

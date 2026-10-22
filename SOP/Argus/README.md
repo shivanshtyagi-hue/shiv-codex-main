@@ -1,4 +1,4 @@
-# Argus Browser MCP
+# Argus Browser MCP SOP
 
 ## Current status
 

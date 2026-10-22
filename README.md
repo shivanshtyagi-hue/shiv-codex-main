@@ -14,6 +14,7 @@ This is the durable context layer for working with Codex and the Codex CLI.
 - `Shiv/`: the master operating brief
 - `context/`: durable context about the user and current focus
 - `workflows/`: repeatable ways of working
+- `SOP/`: standard operating procedures, organized by tool or domain
 - `sessions/`: session memory and handoffs
 - `projects/`: project briefs and project-specific context
 - `integrations/`: tool and connector inventory
